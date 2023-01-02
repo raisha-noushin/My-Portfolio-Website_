@@ -1,6 +1,7 @@
 /*all styles are here*/
 body{
     margin: 0px;
+    font-family: 'Roboto', sans-serif;
 }
 
 img{
@@ -111,3 +112,25 @@ a{
     background-image: url(image/gb.png);
     background-repeat: no-repeat;
 }
+
+.last-sec{
+    margin-left: 80px;
+    margin-bottom: 150px;
+}
+
+.icon-img{
+    height: 50px;
+    width: auto;
+}
+
+.last-link{
+    color: black;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+.last-divs{
+    margin-bottom: 4px;
+    display: flex;
+}
+
