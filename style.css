@@ -4,8 +4,8 @@ body{
 }
 
 img{
-    height: 500px;
-    width: 500px;
+    height: 550px;
+    width: 550px;
 }
 
 h1{
@@ -20,19 +20,52 @@ p{
     font-size: 20px;
 }
 
+a{
+    text-decoration: solid;
+    font-size: 21px;
+}
+
 .half-width-section{
     display: flex;
 }
 
 .half-width{
     width: 50%;
+    padding-top: 25px;
+    padding-bottom: 70px;
+    padding-left: 25px;
+    padding-right: 20px;
 }
 
 .half-width img{
-    width: 100%;
+    padding-left: 25px;
+    padding-right: 10px;
 }
 
 #one-heading{
     color: brown;
 }
 
+#hire-link-button{
+    padding: 10px 50px;
+    background: linear-gradient(brown, coral);
+    border: 5px none;
+    border-radius: 15px;
+    color: black;
+}
+
+#resume-link-button{
+    padding: 10px 50px;
+    background: linear-gradient(orangered, rgb(201, 133, 6));
+    border: 5px none;
+    border-radius: 15px;
+    color: black;
+}
+
+#dream-big{
+    padding-top: 75px;
+}
+
+#web-dev{
+    color: orangered;
+}
