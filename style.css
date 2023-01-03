@@ -140,5 +140,17 @@ a{
     margin-bottom: 4px;
     display: flex;
 }
+
+#yt{
+    color: #FF0000;
+}
+
+#fb{
+    color: #00acee ;
+}
+
+#linkedin{
+    color: #0072b1 ;
+}
 /*stlye of last section*/
 
