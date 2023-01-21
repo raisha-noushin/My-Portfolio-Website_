@@ -5,19 +5,25 @@ body{
 }
 
 header{
-    margin-top: 15px;
-    margin-bottom: 30px;
+    margin-top: 0px;
+    margin-bottom: 2px;
 }
 
 nav a{
     margin-right: 15px;
     margin-left: 15px;
     font-size: 20px;
+    color: rgb(71, 1, 1);
 }
 
 nav{
     display: flex;
     justify-content: space-between;
+    background: linear-gradient(rgb(255, 218, 218), rgb(253, 222, 216));
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    border-radius: 3px;
 }
 
 img{
